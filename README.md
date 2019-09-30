@@ -17,7 +17,7 @@ Stylometric Analyzer is a platform which analyzes 2 authors, Shakespeare and Mar
 
       1.4	Task-4: Building a class for visualizing the analysis
 
-      In this task, each individual statistic (character, punctuation, stop-word and word length) is displayed using plots in a               horizontal way, and in stacked format so that user can understand the graph in a simple manner. The output images are stored             in a png format
+      In this task, each individual statistic (character, punctuation, stop-word and word length) is displayed using plots in a               vertical way, and in stacked format so that user can understand the graph in a simple manner. The output images are stored             in a png format
 
       1.5	Task-5: Main method
 
